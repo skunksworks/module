@@ -1,0 +1,19 @@
+{
+  "name": "beautifuljson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "te.js",
+  "scripts": {
+    "test": "node t " 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skunksworks/module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skunksworks/module/issues"
+  },
+  "homepage": "https://github.com/skunksworks/module#readme"
+}
