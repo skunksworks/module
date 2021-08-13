@@ -4,7 +4,7 @@
   "description": "",
   "main": "te.js",
   "scripts": {
-    "test": "node t " 
+    "test": "node t "
   },
   "repository": {
     "type": "git",
